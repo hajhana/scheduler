@@ -9,7 +9,7 @@
 !["Save new interview"](https://github.com/hajhana/scheduler/blob/master/docs/Save%20new%20interview.png)
 
 ## Delete an appointment:
-!["Delete the interview"](https://github.com/hajhana/scheduler/blob/master/docs/Delet%20the%20interview.png)
+!["Delete the interview"](https://github.com/hajhana/scheduler/blob/master/docs/Delete%20the%20interview1.png)
 !["Delete the interview2"](https://github.com/hajhana/scheduler/blob/master/docs/Delet%20the%20interview%202.png)
 
 ## Edit an appointment:
